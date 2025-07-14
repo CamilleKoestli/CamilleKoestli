@@ -20,11 +20,13 @@
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
   <img src="https://img.shields.io/badge/R-000?style=for-the-badge&logo=r&logoColor=276DC3"/>
   <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Latex-000?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typst-000?style=for-the-badge&logo=typst&logoColor=white"/>
 </p>
 
 ### 🛠️ Skills & Tools
