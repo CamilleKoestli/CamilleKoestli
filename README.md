@@ -7,8 +7,7 @@
 - 🎓 Last year Bachelor's student
 - 🏫 Studying at **HEIG-VD**
 - 🔐 Passionate about cybersecurity
-- 🌱 Currently learning **TECH YOU'RE LEARNING**
-- 💬 Ask me about TOPICS **YOU LOVE**
+- 🌱 Currently learning **NEW TECH**
 
 ---
 
