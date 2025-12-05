@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Ghidra-000?style=for-the-badge&logo=ghidra&logoColor=2496ED"/>
 </p>
 
 ---
