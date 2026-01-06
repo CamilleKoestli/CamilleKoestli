@@ -46,8 +46,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamilleKoestli&show_icons=true&theme=github_dark&hide_border=true" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleKoestli&layout=compact&theme=github_dark&hide_border=true" alt="toplangs"/>
+  <img src="https://github-readme-stats-camille.vercel.app/api?username=CamilleKoestli&show_icons=true&theme=github_dark&hide_border=true" alt="stats"/>
+  <img src="https://github-readme-stats-camille.vercel.app/api/top-langs/?username=CamilleKoestli&layout=compact&theme=github_dark&hide_border=true" alt="toplangs"/>
 </p>
 
 ---
